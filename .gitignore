@@ -1,0 +1,20 @@
+# Ignore files which are not code
+# Image Files
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+
+# Folder (Agar tumhari sari images 'images' folder mein hain)
+/images/
+
+# Log Files
+*.log
+
+# Operating System Files (Mac/Windows ki unwanted files)
+.DS_Store
+Thumbs.db
+
+# Dependencies (Agar tum Node.js ya koi library use karte ho)
+/node_modules
